@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "author": "Nydia M. Sanchez",
+  "private": true,
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.0"
+  }
+}
